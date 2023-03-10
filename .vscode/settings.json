@@ -1,3 +1,10 @@
 {
-  "cSpell.words": ["Garf"]
+  "cSpell.words": [
+    "BINARYOP",
+    "Garf",
+    "LPAREN",
+    "RPAREN",
+    "Skippable",
+    "tokenizes"
+  ]
 }
